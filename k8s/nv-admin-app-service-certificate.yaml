@@ -4,4 +4,4 @@ metadata:
   name: nv-admin-app-certificate
 spec:
   domains:
-    - "nv-admin.hikmahealth.org"
+    - "admin.clinicanv.org"
